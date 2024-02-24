@@ -13,7 +13,7 @@ This Python script, `doge_transaction_parser.py`, fetches Dogecoin transaction d
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/GreatApe42069/dogecoin-transaction-parser
+   git clone https://github.com/GreatApe42069/dogecoin-btc-transaction-parser
    cd dogecoin-transaction-parser
 
 **2. Edit the script:**
