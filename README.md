@@ -53,7 +53,7 @@ This Python script, `doge_transaction_parser.py`, fetches Dogecoin transaction d
 *Ensure that you have the necessary permissions to run the Dogecoin CLI.
 If a block hash is not found for a transaction, the entry will indicate that*
 
-## Contributors: GreatApe42069 , 
+## Contributors: GreatApe42069 , @age_6_pepe - on X.com
 
 
 
