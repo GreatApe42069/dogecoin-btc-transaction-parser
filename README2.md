@@ -11,6 +11,14 @@ This Python script, `bitcoin_transaction_parser_rpc.py`, fetches Bitcoin transac
 - `bitcoinrpc` library installed. You can install it using:
   ```bash
   `pip install python-bitcoinrpc`
+
+## Usage
+
+1. **Clone the repository:**
+   ```bash
+   git clone https://github.com/GreatApe42069/dogecoin-btc-transaction-parser
+   cd dogecoin-transaction-parser
+
   
 1. **Edit the script:**
 
