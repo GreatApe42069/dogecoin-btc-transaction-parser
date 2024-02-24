@@ -30,5 +30,23 @@ Ensure the transaction_hashes list contains the desired Bitcoin transaction hash
 
   *Example: Transaction Hash: [transaction_hash], Block Hash: [block_hash]*
   
+## Example command:
+`python3 bitcoin_transaction_parser_rpc.py`
 
+# Additional Use Cases
+
+**Multiple Transaction Hashes:**
+
+-You can extend the transaction_hashes list with multiple transaction hashes for batch processing.
+
+**Integration with Other Systems:**
+
+-Integrate this script into larger systems or workflows to automate Bitcoin transaction-related tasks.
+
+# Notes:
+
+- Ensure Bitcoin Core is running and configured with RPC.
+- If a block hash is not found for a transaction, the entry will indicate that.
+
+# Contributors GreatApe42069, 
 
