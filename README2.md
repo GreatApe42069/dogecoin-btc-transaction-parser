@@ -22,4 +22,13 @@ Ensure the transaction_hashes list contains the desired Bitcoin transaction hash
 2. **Run the script:**
 `python3 bitcoin_transaction_parser_rpc.py`
 
+3. **Check the output:**
+
+- The script will create a file named `btc_output.txt`
+
+  This file contains entries like:
+
+  *Example: Transaction Hash: [transaction_hash], Block Hash: [block_hash]*
+  
+
 
