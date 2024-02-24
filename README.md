@@ -20,6 +20,7 @@ This Python script, `doge_transaction_parser.py`, fetches Dogecoin transaction d
 
 -Open `doge_transaction_parser.py` in a text editor.
 -Set the correct path to your Dogecoin CLI (`dogecoin-cli`) in the `dogecoin_cli` variable.
+
 -Ensure the transaction_hashes list contains the desired Dogecoin transaction hashes.
 
 **3. Run the script:**
@@ -31,6 +32,7 @@ This Python script, `doge_transaction_parser.py`, fetches Dogecoin transaction d
 - The script will create a file named `doge_output.txt`
 
 - This file contains entries like:
+  
   *Transaction Hash: [transaction_hash], Block Hash: [block_hash]*
 
 ## Command Example: 
@@ -46,7 +48,8 @@ This Python script, `doge_transaction_parser.py`, fetches Dogecoin transaction d
 
 - Integrate this script into larger systems or workflows to automate transaction-related tasks.
 
-**Notes**
+**Notes:**
+
 *Ensure that you have the necessary permissions to run the Dogecoin CLI.
 If a block hash is not found for a transaction, the entry will indicate that*
 
